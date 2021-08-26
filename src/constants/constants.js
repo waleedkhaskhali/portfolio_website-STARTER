@@ -7,7 +7,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
     source: "https://kaskali.netlify.app/",
-    visit: "https://google.com",
+    visit: "https://kaskali.netlify.app/",
     id: 1,
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/4.png",
     tags: ["React", "JavaScript"],
     source: "https://waleedstodo.netlify.app/",
-    visit: "https://google.com",
+    visit: "https://waleedstodo.netlify.app/",
     id: 3,
   },
 ];
