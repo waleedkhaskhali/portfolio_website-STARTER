@@ -1,14 +1,5 @@
 export const projects = [
-  {
-    title: "Netflix Landing Page",
-    description:
-      "Using basic Javascript and HTML, I was able to create this exact copy of Netlix landing page. Also used  modern CSS3+ techniques like Grid, Flex, overlays, shadows. ",
-    image: "/images/1.png",
-    tags: ["JavaScript", "HTML"],
-    source: "https://google.com",
-    visit: "https://google.com",
-    id: 0,
-  },
+
   {
     title: "E-Commerce",
     description:
@@ -18,6 +9,15 @@ export const projects = [
     source: "https://kaskali.netlify.app/",
     visit: "https://google.com",
     id: 1,
+  },
+  {
+    title: "Netflix Landing Page",
+    description:
+      "Using basic Javascript and HTML, I was able to create this exact copy of Netlix landing page. Also used  modern CSS3+ techniques like Grid, Flex, overlays, shadows. ",
+    image: "/images/1.png",
+    tags: ["JavaScript", "HTML"],
+    visit: "https://google.com",
+    id: 0,
   },
   {
     title: "Chat Application",
