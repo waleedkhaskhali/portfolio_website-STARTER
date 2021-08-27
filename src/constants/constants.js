@@ -11,6 +11,16 @@ export const projects = [
     id: 1,
   },
   {
+    title: "Todo List",
+    description:
+      "App which allows people to organize their days by listing tasks they need to get done. Created using React and Javascript",
+    image: "/images/4.png",
+    tags: ["React", "JavaScript"],
+    source: "https://waleedstodo.netlify.app/",
+    visit: "https://waleedstodo.netlify.app/",
+    id: 3,
+  },
+  {
     title: "Netflix Landing Page",
     description:
       "Using basic Javascript and HTML, I was able to create this exact copy of Netlix landing page. Also used  modern CSS3+ techniques like Grid, Flex, overlays, shadows. ",
@@ -29,16 +39,7 @@ export const projects = [
     visit: "https://google.com",
     id: 2,
   },
-  {
-    title: "Todo List",
-    description:
-      "App which allows people to organize their days by listing tasks they need to get done. Created using React and Javascript",
-    image: "/images/4.png",
-    tags: ["React", "JavaScript"],
-    source: "https://waleedstodo.netlify.app/",
-    visit: "https://waleedstodo.netlify.app/",
-    id: 3,
-  },
+
 ];
 
 export const TimeLineData = [
